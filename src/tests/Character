@@ -1,0 +1,19 @@
+// import { mensaje } from "../components/Characters";
+
+// Estructura gral //
+
+// describe("Characters component", ()=>{
+
+//     test("", ()=>{
+
+//     })
+// })
+
+
+// describe("Characters component", () => {
+//     test("Debe devolver el mismo mensaje que se le ingresa a la funcion mensaje", () => {
+//         let response = mensaje("Saludo")
+
+//         expect(response).toBe("Saludo")
+//     })
+// })

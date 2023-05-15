@@ -1,0 +1,16 @@
+h4 {
+  text-align: center;
+  font-size: 2em;
+}
+
+.container-about {
+  width: 60%;
+  margin: 50px auto;
+  color: #ffd94b;
+  text-align: center;
+  font-weight: 600;
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; */
+}
